@@ -1,0 +1,82 @@
+body{width:960px;
+    margin:20px auto;
+    background-color:#D874D6;}
+
+
+#Work{font-family:'Times New Roman', Times, serif;
+border-collapse: collapse;
+box-sizing: border-box;
+
+
+margin:0 auto;
+
+}
+.bojaE{color:#0066cc; font-weight:bold;}
+
+
+
+p{text-align: justify;}
+
+
+
+.red{border-radius:0 0 0 0;}
+
+.red,td {border:solid 1px #e6e6e6; padding:8px;
+    
+}
+
+tr.even{background-color:aqua;
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     }
+
+tr{background-color: gray;
+}
+
+
+
+#work{float:left;
+width:420px;
+box-sizing: border-box;
+border-left:2px solid green;
+padding:50px 0 0 20px ;}
+
+#tabela1{background-color:yellowgreen;
+color:#0000ff;
+}
+
+.dno{border-bottom:2px solid red;
+}
+
+
+.desnop{float:right;
+box-sizing: border-box;
+padding:50px 10px 0 20px ;
+width:450px;
+border-left:0px;
+
+
+
+
+}
+
+
+
+
+.slika{float:left;
+box-sizing: border-box;
+width:500px;
+border-right:2px solid green;
+
+}
+
+.dnop{border-bottom:2px solid red;
+padding:8px 0 8px 0;}
+
